@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Apologies for the lack of polish on this end, currently working on 'Seyr' repo every day to get it up and running.
 
 <!--
 **Daethos/Daethos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

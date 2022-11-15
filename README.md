@@ -1,5 +1,8 @@
 ### Hi there 👋 Apologies for the lack of polish on this end, currently working on 'Seyr' repo every day to get it up and running.
 
+### [Current Update]: Game is operational for gameplay testing at Http://ascea.herokuapp.com/
+#### Note: No built-in readme/tutorial as of 11-14. Will work to have that in before Thanksgiving, at least for general app functionality.
+
 <!--
 **Daethos/Daethos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

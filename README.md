@@ -1,6 +1,6 @@
 ### Hi there 👋 Apologies for the lack of polish on this end, currently working on 'Seyr' game repo every day to get it up and running.
 
-#### [Current Update]: [Seyr of Daethos](http://ascea.herokuapp.com/) is operational for app and gameplay testing.
+#### [Current Update]: [Seyr of Daethos](http://ascea.herokuapp.com/) is operational for app and gameplay testing. Mobile recommended.
 ##### Note: No built-in readme/tutorial as of 11 November 2022. Will work to have that in before Thanksgiving, for general app functionality if not combat.
 
 <!--

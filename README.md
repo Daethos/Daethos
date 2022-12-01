@@ -1,9 +1,9 @@
 ## [Seyr of Daethos](http://ascea.herokuapp.com/)
 ### Hi there 👋 Apologies for the lack of polish on this end, currently working on the 'Seyr [of Daethos]' game repo every day to get it up and running.
 
-#### [Current Update]: Game is functional for PvP! Took a bit of work retooling previous logic for solo gameplay and enhancing the experience via sockets.
-#### [Past Update]: Game is operational for social and gameplay testing -- story and pvp still work in progress. Mobile experience recommended.
-##### Note(s): No built-in readme/tutorial as of 11 November 2022. Will work to have that in before Thanksgiving, for general app functionality if not combat. [11/23 Update]: Failed to create the readme/tutorial, but as a surprise tradeoff I've managed to create the PvP experience!
+#### [Current Update]: Readme has been written, solo and pvp gameplay working thoroughly.
+#### [Past Updates]: Game is functional for PvP via socket.io! Game is operational for social and gameplay testing -- story and pvp still work in progress. Mobile experience recommended.
+##### Note(s): No built-in tutorial for the gameplay mechanics or combat experience as of 12/1. Will work to complete that before Christmas.
 
 <!--
 **Daethos/Daethos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

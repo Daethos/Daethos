@@ -1,9 +1,9 @@
-## [Seyr of Daethos](http://ascea.herokuapp.com/)
-### Hi there 👋 Apologies for the lack of polish on this end, currently working on the 'Seyr [of Daethos]' game repo every day to get it up and running.
+## [Seyr](http://ascea.herokuapp.com/)
+### Hi there 👋 Apologies for the lack of polish on this end, currently working on the 'Seyr' repo every day to get it up and running.
 
-#### [Current Update]: Revamped system to initiate progression elements, disparity of equipment, experience/leveling, looting, inventory, dialog.
-#### [Past Updates]: PvP, Social aspects, Readme -- Story work in progress. Mobile experience recommended.
-##### Note(s): Built-In tutorial for combat complete, under the 'Actions' tab, the first tab in any dialog box.
+#### [Current Update]: Gear is now uniquely randomized in every occurrence, Tutorial Demo before signing up allows a prospective player to try the combat system without a profile.
+#### [Past Updates]: Leveling, Inventory, Dialog, PvP, Social aspects, Readme -- Story work in progress. Mobile experience recommended.
+##### Note(s): Built-In tutorial for combat explanation complete.
 
 <!--
 **Daethos/Daethos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

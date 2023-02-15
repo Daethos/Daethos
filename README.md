@@ -1,4 +1,4 @@
-## [Seyr](http://ascea.herokuapp.com/)
+## [Seyr](https://ascea.herokuapp.com/)
 ### Hi there 👋 Apologies for the lack of polish on this end, currently working on the 'Seyr' repo every day to get it up and running.
 
 #### [Current Update]: Gear is now uniquely randomized in every occurrence, Tutorial Demo before signing up allows a prospective player to try the combat system without a profile.

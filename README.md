@@ -1,9 +1,9 @@
 ## [Seyr](https://ascea.herokuapp.com/)
 ### Hi there 👋 Apologies for the lack of polish on this end, currently working on the 'Seyr' repo every day to get it up and running.
 
-#### [Current Update]: Gear is now uniquely randomized in every occurrence, Tutorial Demo before signing up allows a prospective player to try the combat system without a profile.
-#### [Past Updates]: Leveling, Inventory, Dialog, PvP, Social aspects, Readme -- Story work in progress. Mobile experience recommended.
-##### Note(s): Built-In tutorial for combat explanation complete.
+#### [Current Update]: Functional map with content pre-generated and random encounters when navigating. Deeper progression system.
+#### [Past Updates]: Character Progression, Dialog, PvP, Social aspects, Readme -- Story work in progress. Mobile experience recommended.
+##### Note(s): Tutorial for majority of concepts complete and integrated.
 
 <!--
 **Daethos/Daethos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

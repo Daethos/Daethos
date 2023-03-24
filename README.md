@@ -1,8 +1,10 @@
 ## [Seyr](https://ascea.herokuapp.com/)
 ### Hi there 👋 Apologies for the lack of polish on this end, currently working on the 'Seyr' repo every day to get it up and running.
 
-#### [Current Update]: Functional map with content pre-generated and random encounters when navigating. Deeper progression system.
-#### [Past Updates]: Character Progression, Dialog, PvP, Social aspects, Readme -- Story work in progress. Mobile experience recommended.
+https://user-images.githubusercontent.com/108702073/227642695-a6ae1173-5bf6-4ced-9965-89342f4b9c8c.mp4
+
+#### [Current Update]: Hardcore Arena mode enabled.
+#### [Past Updates]: Character Progression, Dialog, Maps, Social aspects, Readme -- Story work in progress. Mobile experience recommended or desktop w/ 800-1000 square resolution.
 ##### Note(s): Tutorial for majority of concepts complete and integrated.
 
 <!--

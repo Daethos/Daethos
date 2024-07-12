@@ -1,9 +1,9 @@
 ## [The Ascean](https://achreo.vercel.app/)
-### Hi there 👋 Apologies for the lack of polish on this end, currently working on the 'Seyr' repo every day to get it up and running.
+### Hi there 👋 Apologies for the lack of polish on this end, currently working on the 'achreo' repo every day to get it up and running.
 
-#### [Current Update]: Phaser Canvas version is taking hold, creating the real-time variant of the simulated turn-based combat has been fascinating. At the moment have logic for enemy combat, loot, and pathing, and npcs. Still translating the static systems into Phaser variants. Full demo account avaiable without signing up.
-#### [Past Updates]: PvP Enabled for up to 4 players simultaneously. Character Progression, Dialog, Maps, Social aspects, Readme -- Story work in progress. Desktop and Mobile experience functional.
-##### Note(s): Tutorial for majority of concepts complete and integrated.
+#### [Current Update]: Game not functionals as a progressive web app (PWA) and can be installed for desktop and mobile.
+#### [Past Updates]: Real-time variant of the simulated turn-based combat is now fully functional and deeply expanded.
+##### Note(s): Full front-end, serverless, storage via IndexedDB.
 
 <!--
 **Daethos/Daethos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

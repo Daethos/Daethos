@@ -1,9 +1,9 @@
 ## [The Ascean](https://achreo.vercel.app/)
-### Hi there 👋 Apologies for the lack of polish on this end, currently working on the 'achreo' repo every day to get it up and running.
+### Hi there 👋 Currently improving on the 'achreo' repo; a fully functional, mobile-first, combat RPG.
 
-#### [Current Update]: Game not functionals as a progressive web app (PWA) and can be installed for desktop and mobile.
-#### [Past Updates]: Real-time variant of the simulated turn-based combat is now fully functional and deeply expanded.
-##### Note(s): Full front-end, serverless, storage via IndexedDB.
+#### [Current Update]: Game is functional as a progressive web app and can be installed for desktop and mobile.
+#### [Past Updates]: Real-time variant of the simulated turn-based combat.
+##### Note(s): Full front-end in Solid Js, its game engine Phaser 3, and storage via IndexedDB.
 
 <!--
 **Daethos/Daethos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

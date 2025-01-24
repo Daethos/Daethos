@@ -1,8 +1,10 @@
 ## [The Ascean](https://achreo.vercel.app/)
-### Hi there 👋 Currently improving on the 'achreo' repo; a fully functional, mobile-first, combat RPG.
+### Hi there 👋 Currently improving on the 'achreo' repo; a fully functional, mobile-first, ARPG.
 
-#### [Current Update]: Game is functional as a progressive web app and can be installed for desktop and mobile.
-#### [Past Updates]: Real-time variant of the simulated turn-based combat.
+https://github.com/user-attachments/assets/9e0d8543-f1f1-4f02-8eb3-bc1bea8c2df3
+
+#### [Current Update]: Arena system and Computer v Computer combat has been instantiated.
+#### [Past Updates]: Functional PWA for Desktop and Mobile.
 ##### Note(s): Full front-end in Solid Js, its game engine Phaser 3, and storage via IndexedDB.
 
 <!--
